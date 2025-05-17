@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/hanimeia/istoreos-1/tree/istoreos-24.10.0
+  REPO_URL: https://github.com/hanimeia/istoreos-1.git
   REPO_BRANCH: istoreos-24.10.0
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
