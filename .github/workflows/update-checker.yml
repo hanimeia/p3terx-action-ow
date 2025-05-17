@@ -13,8 +13,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-24.10
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/hanimeia/istoreos-1/tree/istoreos-24.10.0
+  REPO_BRANCH: istoreos-24.10.0
 
 on:
   workflow_dispatch:
